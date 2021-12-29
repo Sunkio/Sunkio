@@ -19,7 +19,7 @@
 
 <h3 align="left">My Progress @42</h3>
 
-<p>I'm currently studying software engineering at 42 Wolfsburg. You can follow my journey through the curriculum below and check out some of my code right here on GitHub.</p>
+<p>I'm currently studying software engineering at 42 Wolfsburg. You can follow my journey through the curriculum and check out some of my code right here on GitHub.</p>
 
 | No  | Project                             | Rank | Status |   | No  | Project          | Rank | Status |
 | :-: | :---------------------------------  |:--:  | :----: | - | :-: | :--------------- | :--: |:----:  |
