@@ -12,7 +12,7 @@
 <h3 align="left">My GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunkio&show_icons=true&locale=en&layout=compact" alt="sunkio" /></p>
-<p></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunkio&show_icons=true&locale=en" alt="sunkio" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunkio&" alt="sunkio" /></p> -->
