@@ -31,7 +31,7 @@
 | 5B  | FdF									                |  2   |   🔵   |   | 20  | CPP Module 06    |  4   |  🔵    |
 | 5C  | so_long								              |  2	 |   🔵   |   | 21  | CPP Module 07    |  4   |  🔵    |
 | 6A  | minitalk                            |  2   |   ✅   |   | 22  | CPP Module 08    |  4   |  🔵    |
-| 6B  | pipex      							            |  2	 |   🔵   |   | 23  | NetPractice      |  4   |  🔵    |
+| 6B  | pipex      							            |  2	 |   🔷   |   | 23  | NetPractice      |  4   |  🔵    |
 | 7   | push_swap	                          |  2	 |	 🔶   |   | 24  | exam rank 04     |  4   |  🔵    |
 | 8   | exam rank 02							          |  2   |   🔶   |   | 25  | ft_containers    |  5   |  🔵    |
 | 10  | minishell			 					            |  3	 |   🔵   |   | 26A | ft_irc           |  5   |  🔵    |
