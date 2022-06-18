@@ -24,7 +24,7 @@
 | No  | Project                             | Rank | Status |   | No  | Project          | Rank | Status |
 | :-: | :---------------------------------  |:--:  | :----: | - | :-: | :--------------- | :--: |:----:  |
 | 1   | [Libft](../../../42_libft)          |  0   |   ✅   |   | 15  | CPP Module 01    |  4   |  🔵    |
-| 2   | Born2beroot								          |  1   |   ✅   |   | 16  | CPP Module 02    |  4   |  🔵    |
+| 2   | [Born2beroot](https://gist.github.com/Sunkio/490e137167738746b9c2b7dc19889f1d) |  1   |   ✅   |   | 16  | CPP Module 02    |  4   |  🔵    |
 | 3   | [ft_printf](../../../42_ft_printf)  |  1   |   ✅   |   | 17  | CPP Module 03    |  4   |  🔵    |
 | 4   | [get_next_line](../../../42_gnl) 	  |  1   |   ✅   |   | 18  | CPP Module 04    |  4   |  🔵    |
 | 5A  | fract-ol                            |  2	 |   🔵   |   | 19  | CPP Module 05    |  4   |  🔵    |
