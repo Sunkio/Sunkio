@@ -6,6 +6,7 @@
 <h3 align="left">Connect with Me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanja-schmidt-667a36122/)
+[![buildspace](https://img.shields.io/badge/%F0%9F%A6%84-buildspace-E641F6)](https://buildspace.so/@tanja)
 <!-- [![Docker Hub](https://img.shields.io/badge/-Docker%20Hub-0db7ed?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/) -->
 <!-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-f8f8fa?style=flat-square)](https://tanjasportfolio.com) -->
 
