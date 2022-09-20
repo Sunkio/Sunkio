@@ -17,7 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunkio&show_icons=true&locale=en" alt="sunkio" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunkio&" alt="sunkio" /></p> -->
-
+<!--
 <h3 align="left">My Progress @42</h3>
 
 <p>I'm currently studying software engineering at 42 Wolfsburg. You can follow my journey through the curriculum and check out some of my code right here on GitHub.</p>
@@ -42,7 +42,7 @@
 | 13B | miniRT                              |  4   |   🔵   |   | 29  | ft_transcendence |  6   |  🔵    |
 | 14  | CPP Module 00                       |  4   |   🔵   |   | 20  | exam rank 06     |  6   |  🔵    |
 
-
+-->
 <!--
 **Sunkio/Sunkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
