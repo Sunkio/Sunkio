@@ -1,4 +1,4 @@
-[![](https://github.com/Sunkio/Sunkio/blob/main/tanja-schmidt_software-engineer.gif)](https://www.linkedin.com/in/tanja-schmidt-667a36122/)
+<!-- [![](https://github.com/Sunkio/Sunkio/blob/main/tanja-schmidt_software-engineer.gif)](https://www.linkedin.com/in/tanja-schmidt-667a36122/) -->
 
 <h1 align="center">Hi 👋, I'm Tanja</h1>
 <h2 align="center">A TV editor turned software engineer from Germany</h2>
