@@ -1,7 +1,9 @@
 <!-- [![](https://github.com/Sunkio/Sunkio/blob/main/tanja-schmidt_software-engineer.gif)](https://www.linkedin.com/in/tanja-schmidt-667a36122/) -->
 
 <h1 align="center">Hi 👋, I'm Tanja</h1>
-<h2 align="center">A TV editor turned software engineer from Germany</h2>
+<h2 align="center">Welcome to my GitHub page!</h2>
+
+I am a software developer with a passion for creating elegant and efficient code. On my GitHub, you'll find a diverse range of projects I've worked on, from building web applications using NodeJS and React, to experimenting with decentralized technologies like Ethereum, Solidity and Web3.js. I am particularly interested in working on projects that involve both web2 and web3 technologies, with a focus on blockchain, smart contract development and creating decentralized solutions. Feel free to check out my repositories and if you have any questions or suggestions, don't hesitate to reach out.
 
 <h3 align="left">Connect with Me</h3>
 
