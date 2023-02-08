@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm Tanja</h1>
 <h2 align="center">Welcome to my GitHub!</h2>
 
-- 👩🏻‍💻 I am a software developer with a passion for creating elegant and efficient code. On my GitHub, you'll find a diverse range of projects I've worked on, from building web applications using NodeJS and React, to working with decentralized technologies like Solidity and Web3.js.
-- 🈺 I am particularly interested in working on projects that involve both web2 and web3 technologies, with a focus on blockchain, smart contract development and creating decentralized solutions.
-- 🤓 I am an avid equestrian and animal lover, and I enjoy good food and good coffee.
-- 👀 Feel free to check out my repositories and if you have any questions or suggestions, don't hesitate to reach out.
+- 👩🏻‍💻 As a software developer, I'm driven by creating elegant and efficient code. On my GitHub, you'll find a diverse portfolio of projects I've worked on, showcasing my skills in web development with technologies like React and Node.js, as well as my experience with decentralized technologies like Solidity and Web3.js.
+- 🈺 I have a passion for exploring the intersection of web2 and web3 technologies, particularly in the realm of blockchain and smart contract development. I strive to deliver decentralized solutions that drive innovation and add value to the world.
+- 🤓 When I'm not coding, you can find me indulging in my love for animals, especially horses, and enjoying good food and coffee.
+- 👀 Please take a look at my repositories and don't hesitate to reach out if you have any questions or feedback.
 
 <h3 align="left">Connect with Me</h3>
 
