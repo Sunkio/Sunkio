@@ -4,7 +4,7 @@
   <h1>Hi there! 👋 I'm Tanja.</h1>
   <h2>Welcome to my GitHub!</h2>
   
-  <p><strong>Code weaver, digital explorer, and lifelong learner.</strong></p>
+  <p><strong>Code weaver, digital explorer, lifelong learner.</strong></p>
   
   <p>I'm fluent in Next.js/React, TypeScript, JavaScript, and Node.js. I thrive on building seamless digital experiences that delight users. Whether collaborating with a team or coding solo, I bring my A-game to every project.</p>
   
